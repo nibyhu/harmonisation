@@ -16,4 +16,4 @@
 
 ## System requirements
 
-## Dependancies
+## Dependencies
